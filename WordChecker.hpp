@@ -1,18 +1,3 @@
-// WordChecker.hpp
-//
-// ICS 46 Spring 2021
-// Project #4: Set the Controls for the Heart of the Sun
-//
-// The WordChecker class can check the spelling of single words and generate
-// suggestions for words that have been misspelled.
-//
-// You can add anything you'd like to this class, but you will not be able
-// to modify the declarations of any of its member functions, since the
-// provided code calls into this class and expects it to look as originally
-// given.
-//
-// You are permitted to use the C++ Standard Library in this class.
-
 #ifndef WORDCHECKER_HPP
 #define WORDCHECKER_HPP
 
