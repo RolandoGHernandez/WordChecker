@@ -1,11 +1,3 @@
-// WordChecker.cpp
-//
-// ICS 46 Spring 2021
-// Project #4: Set the Controls for the Heart of the Sun
-//
-// Replace and/or augment the implementations below as needed to meet
-// the requirements.
-
 #include "WordChecker.hpp"
 
 
