@@ -1,25 +1,3 @@
-// HashSet.hpp
-//
-// ICS 46 Spring 2021
-// Project #4: Set the Controls for the Heart of the Sun
-//
-// A HashSet is an implementation of a Set that is a separately-chained
-// hash table, implemented as a dynamically-allocated array of linked
-// lists.  At any given time, the HashSet has a "size" indicating
-// how many elements are stored within it, along with a "capacity"
-// indicating the size of the array.
-//
-// As elements are added to the HashSet and the proportion of the HashSet's
-// size to its capacity exceeds 0.8 (i.e., there are more than 80% as many
-// elements as there are array cells), the HashSet should be resized so
-// that it is twice as large as it was before.
-//
-// You are not permitted to use the containers in the C++ Standard Library
-// (such as std::set, std::map, or std::vector) to store the information
-// in your data structure.  Instead, you'll need to use a dynamically-
-// allocated array and your own linked list implemenation; the linked list
-// doesn't have to be its own class, though you can do that, if you'd like.
-
 #ifndef HASHSET_HPP
 #define HASHSET_HPP
 
